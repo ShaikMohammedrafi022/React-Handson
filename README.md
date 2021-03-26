@@ -1,2 +1,2 @@
-# spring-rest-stage3
-spring rest stage3
+# stage 3-handson
+stage 3-handson
